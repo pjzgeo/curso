@@ -1,4 +1,4 @@
-# escribir un programa que lea un número entero positivo y muestre en pantalla la suma de los dígitos de dicho número.
+# programa que lee un número entero positivo y muestre en pantalla la suma de los dígitos de dicho número.
 # Ejemplo: si el número es 123, la suma sería 1 + 2 + 3 = 6
 
 
